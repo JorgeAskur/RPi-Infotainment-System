@@ -1,10 +1,8 @@
 # Infotainment System with Raspbery Pi and STM32F103C8T6
 
-This project was developed for the System on a chip Design class in colaboration with Intel at Tecnológico de Monterrey.
+This project was developed for the System on a chip Design class in colaboration with Intel at Tecnológico de Monterrey and it should resemble a infotainment system present in a car. 
 
-The solution should resemble a infotainment system present in a car. For this project we use buttons and the touch screen of a tablet connected to the RPi 4 via VNC
-to interface with the system.
-
+The system is controlled by various buttons connected to the STM32 and by the touch screen of a tablet connected via VNC to the RPi 4, which uses the pygame library to play songs. It can also download additional songs thanks to the pytube library, which also gives us the data of the song which is displayed in the GUI as well as the thumbnail of the song which is obtained with urllib. 
 
 ## Electronic Schematic 
 
