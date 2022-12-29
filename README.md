@@ -1,4 +1,4 @@
-# Infotainment System with Raspbery Pi and STM32F103C8T6
+# Infotainment System with Raspberry Pi and STM32F103C8T6
 
 This project was developed for the System on a chip Design class in colaboration with Intel at Tecnológico de Monterrey and it should resemble a infotainment system present in a car. 
 
