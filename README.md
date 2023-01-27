@@ -38,6 +38,6 @@ In his project we used:
 ## Team Members
 * Jorge Askur Vazquez Fernandez
 * Sebastian Joya Paez
-* Jose Miguel Flores Gonzalez
+* José Miguel Flores Gonzalez
 
 
